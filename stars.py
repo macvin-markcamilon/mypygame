@@ -1,2 +1,2 @@
-import pygame.examples.stars as stars
-stars.main()
+import pygame.examples.chimp as chimp
+chimp.main()
